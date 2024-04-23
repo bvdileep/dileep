@@ -26,7 +26,7 @@
 }
 .b{
     color: white;
-    background-color:aliceblue;
+    background-color:#ac3378;
     margin-top: 30px;
     margin-left: 300px;
     width: 200px;
@@ -175,9 +175,6 @@
 .N{
     display: flex;
     height: 900px;
-    background-image: url(/uploads/images/images\ \(1\).jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
     margin-left: 150px;
     background-image: url(assets/uploads/images/register-ltr-QNX3I3I6.svg);
     background-repeat: none;
